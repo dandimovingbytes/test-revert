@@ -7,3 +7,4 @@ const enam = 6
 const tujuh = 7
 const delapan = 8
 const sembilan = 9
+const sepuluh = 10
