@@ -1,0 +1,1 @@
+const satu = 1
