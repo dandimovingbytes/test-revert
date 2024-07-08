@@ -12,3 +12,4 @@ const sebelas = 11
 const duabelas = 12
 const tigabelas = 13
 const empatbelas = ''
+const limabelas = ''
